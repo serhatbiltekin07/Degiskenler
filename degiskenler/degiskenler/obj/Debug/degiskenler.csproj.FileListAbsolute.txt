@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\user\Desktop\Pratikler\degiskenler\degiskenler\obj\Debug\degiskenler.pdb
